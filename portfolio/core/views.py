@@ -20,7 +20,6 @@ Example : suppose you are making django project
 day 1 : login system #version 1(login solve)
 day 2 : register system #version 2
 day 3 : login & register , dashboard #version 3
-
 Github : it is website where the project are store online usin git
 
 
